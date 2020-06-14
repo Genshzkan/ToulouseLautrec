@@ -1,0 +1,14 @@
+li a {
+  color: white;
+  font-family: monospace;
+  font-size: 24px;
+  font-weight: bold;
+}
+ul {
+  background-color: black;
+}
+body {
+  text-align: center;
+  background: white url("img/data.jpg") no-repeat;
+  background-size: 100%;
+}
